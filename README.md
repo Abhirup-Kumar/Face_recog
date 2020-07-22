@@ -7,4 +7,6 @@ Transfer learning is a research problem in machine learning that focuses on stor
 ## Mobile Net
 MobileNet is an architecture which is more suitable for mobile and embedded based vision applications where there is lack of compute power. This architecture was proposed by Google.For more info on mobile net click here ->https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html
 
+![11](https://user-images.githubusercontent.com/47302857/88198277-2a317600-cc61-11ea-9b37-22f11ee3f6c3.jpg)
+
 
