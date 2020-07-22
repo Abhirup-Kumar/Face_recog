@@ -5,5 +5,6 @@ This model is created to be used as a Facial recogination model in a software. I
 Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks.
 
 ## Mobile Net
-MobileNet is an architecture which is more suitable for mobile and embedded based vision applications where there is lack of compute power. This architecture was proposed by Google.
+MobileNet is an architecture which is more suitable for mobile and embedded based vision applications where there is lack of compute power. This architecture was proposed by Google.For more info on mobile net click here ->https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html
+
 
